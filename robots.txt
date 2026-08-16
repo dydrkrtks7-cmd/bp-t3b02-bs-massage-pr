@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangsu-karaoke-note.pub-jongno-pro.xyz/sitemap.xml
+Sitemap: https://sangsu-karaoke-note.pub-jongno-pro.xyz/sitemap-pages.xml
